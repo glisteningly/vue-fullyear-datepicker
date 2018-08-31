@@ -1,5 +1,9 @@
 # fulldatepicker
 
+vue全年日期选择器demo
+
+基于V-Calendar
+
 ## Project setup
 ```
 npm install
