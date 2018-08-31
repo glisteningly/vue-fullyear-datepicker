@@ -1,4 +1,4 @@
-# fulldatepicker
+# vue-fullyear-datepicker
 
 vue全年日期选择器demo
 
