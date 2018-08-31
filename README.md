@@ -4,6 +4,8 @@ vue全年日期选择器demo
 
 基于V-Calendar
 
+![Alt text](./images/demo.png?raw=true "Title")
+
 ## Project setup
 ```
 npm install
